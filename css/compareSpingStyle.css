@@ -239,7 +239,7 @@ nav .container {
 /* FOOTER  CSS */
 .footer {
   width: 100%; /* 넓이를 100%로 채우기 반응형 */
-  background-color: var(--main_color_footer);
+  background-color: var(--spring_color_footer);
   padding: 10px 90px;
 }
 
