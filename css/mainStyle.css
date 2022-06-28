@@ -332,6 +332,10 @@ nav .bottom_line{
 #carousel-3:checked ~ .control-3 {
   display: block;
 }
+/* 
+.img_p{
+  width: 250px;
+} */
 
 .content_slide{
   width: 238px;
